@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'Circular Medium';
+  src: url(./assets/fonts/circular/circular-medium.otf);
+}
+@font-face {
+  font-family: 'Circular Medium Italic';
+  src: url(./assets/fonts/circular/circular-medium-italic.otf);
+}
+@font-face {
+  font-family: 'Circular Book';
+  src: url(./assets/fonts/circular/circular-book.otf);
+}
+@font-face {
+  font-family: 'Circular Book Italic';
+  src: url(./assets/fonts/circular/circular-book-italic.otf);
+}
+@font-face {
+  font-family: 'Circular Bold';
+  src: url(./assets/fonts/circular/circular-bold.otf);
+}
+@font-face {
+  font-family: 'Circular Bold Italic';
+  src: url(./assets/fonts/circular/circular-bold-italic.otf);
+}
+@font-face {
+  font-family: 'Circular Black';
+  src: url(./assets/fonts/circular/circular-black.otf);
+}
+@font-face {
+  font-family: 'Circular Black Italic';
+  src: url(./assets/fonts/circular/circular-black-italic.otf);
+}
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Circular Book', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  backdrop-filter: blur(20px);
+  background: conic-gradient(from 71.55deg at 36.52% 48.19%, #FFA1A6 -24.74deg, #FFCBD6 39.87deg, #FFC9E9 94.18deg, #FFD0EC 148.99deg, #F8CDE7 191.25deg, #FFEDDC 248.06deg, #FFA979 292.12deg, #FFA1A6 335.26deg, #FFCBD6 399.87deg);
+}
+
+a {
+  text-decoration: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

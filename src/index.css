@@ -1,33 +1,33 @@
 @font-face {
-  font-family: 'Circular Medium', sans-serif;
+  font-family: 'Circular Medium';
   src: url(./assets/fonts/circular/circular-medium.otf);
 }
 @font-face {
-  font-family: 'Circular Medium Italic', sans-serif;
+  font-family: 'Circular Medium Italic';
   src: url(./assets/fonts/circular/circular-medium-italic.otf);
 }
 @font-face {
-  font-family: 'Circular Book', sans-serif;
+  font-family: 'Circular Book';
   src: url(./assets/fonts/circular/circular-book.otf);
 }
 @font-face {
-  font-family: 'Circular Book Italic', sans-serif;
+  font-family: 'Circular Book Italic';
   src: url(./assets/fonts/circular/circular-book-italic.otf);
 }
 @font-face {
-  font-family: 'Circular Bold', sans-serif;
+  font-family: 'Circular Bold';
   src: url(./assets/fonts/circular/circular-bold.otf);
 }
 @font-face {
-  font-family: 'Circular Bold Italic', sans-serif;
+  font-family: 'Circular Bold Italic';
   src: url(./assets/fonts/circular/circular-bold-italic.otf);
 }
 @font-face {
-  font-family: 'Circular Black', sans-serif;
+  font-family: 'Circular Black';
   src: url(./assets/fonts/circular/circular-black.otf);
 }
 @font-face {
-  font-family: 'Circular Black Italic', sans-serif;
+  font-family: 'Circular Black Italic';
   src: url(./assets/fonts/circular/circular-black-italic.otf);
 }
 * {

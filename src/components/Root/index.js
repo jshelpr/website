@@ -20,6 +20,15 @@ const Svg = styled.svg`
   bottom: ${props => props.bottom};
   right: ${props => props.right};
   z-index: -1;
+  animation: rotate 3s linear infinite;
+  @keyframes rotate {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
 `;
 
 export default class Root extends React.Component {
